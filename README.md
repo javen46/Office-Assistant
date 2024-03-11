@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="#说明目录">
+    <a href="#目录">
       使用说明
     </a>
     <span> • </span>
