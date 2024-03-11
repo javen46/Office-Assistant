@@ -41,8 +41,6 @@
 
 ### 注册秘钥
 
-<p align="center"><img src="https://tupian.li/images/2024/03/11/65ef16fcd14ea.gif" alt="2-截图-1.png" style="width: 80%;"></p>
-
 - 点击此链接 https://javenoffice.cn/ 打开官方网站。
 - 点击【个人中心】进入登录界面，如果没有账号可以点击 `去注册` 进行账号注册。
 - 登录系统后，在个人信息页签中，把 `SK密钥` 复制出来；启动程序后，点击 `设置`，在 `Key秘钥` 输入框填入秘钥保存即可（注意：第一次设置程序需要联网） 。
@@ -95,8 +93,6 @@
 
 ### 截图搜索
 
-<p align="center"><img src="https://tupian.li/images/2024/03/11/65ef16ef90cee.gif" alt="截图搜索.png" style="width: 80%;"></p>
-
 - 点击【截图搜索】，可选取需要识别搜索的内容，识别完成后程序会自动打开浏览器进行百度搜索你想要搜索的内容。
 
 ### office工具
@@ -112,13 +108,13 @@
 
 ### 批量工具
 
-<p align="center"><img src="https://tupian.li/images/2024/03/11/65ef16fcd14ea.gif" alt="批量工具.png" style="width: 80%;"></p>
+<p align="center"><img src="https://tupian.li/images/2024/03/11/65ef16ee2fb96.png" alt="批量工具.png" style="width: 80%;"></p>
 
 - 【批量图片识文】：可选择多张图片进行批量图片识别文本，并把文本内容保存到桌面TXT文件中。
 
 ### 设置
 
-<p align="center"><img src="https://tupian.li/images/2024/03/11/65ef16ee2fb96.png" alt="设置.png" style="width: 80%;"></p>
+<p align="center"><img src="https://tupian.li/images/2024/03/11/65ef16fb38f4b.png" alt="设置.png" style="width: 80%;"></p>
 
 - 对程序进行 "基本设置"、"翻译设置"、"快捷键设置"。
 
