@@ -20,11 +20,11 @@
 
 ## 下载地址
 
-点击 [办公助手_v2.0.0_x64.exe](https://github.com/javen46/Office-Assistant/releases/tag/Office-Assistant)
-
 点击 [百度云盘下载_提取码：1234](https://pan.baidu.com/s/1dqBXPTVRSVu26jYcRJtf3g?pwd=1234)
 
 点击 [阿里云盘下载](https://www.alipan.com/s/tnxxAmtT8j2)
+
+点击 [办公助手_v2.0.0_x64.exe](https://github.com/javen46/Office-Assistant/releases/tag/Office-Assistant)
 
 <p align="center"><img src="https://tupian.li/images/2024/03/12/65f059d5affe7.png" alt="下载.png" style="width: 80%;"></p>
 
